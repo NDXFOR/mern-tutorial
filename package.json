@@ -17,5 +17,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.16"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NDXFOR/mern-tutorial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NDXFOR/mern-tutorial/issues"
+  },
+  "homepage": "https://github.com/NDXFOR/mern-tutorial#readme"
 }
